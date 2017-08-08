@@ -9,7 +9,7 @@
 - [Google Maps API][1]
 
 ---------- 
-## Habilitar bibliotecas no [Console Google Cloud Plarform][2] e gerar uma chave
+## Habilitar bibliotecas no console do [Google Cloud Plarform][2] e gerar uma chave
 - Google Maps JavaScript API
 - Google Places API Web Service
 
